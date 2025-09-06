@@ -71,5 +71,5 @@ The model is trained on the [AG News Classification Dataset](https://www.kaggle.
 
 ## 👨‍💻 Author
 **S. Antony Mittul**  
-📌 Third-year Computer Science student | Data Science & Analytics Enthusiast  
+📌 Final-year Computer Science student | Data Science & Analytics Enthusiast  
 📍 Hindustan University, Chennai, Tamil Nadu  
